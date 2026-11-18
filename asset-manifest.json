@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "glMode/static/css/main.af8642b2.css",
+    "main.js": "glMode/static/js/main.9a36b37a.js",
+    "index.html": "glMode/index.html",
+    "main.af8642b2.css.map": "glMode/static/css/main.af8642b2.css.map",
+    "main.9a36b37a.js.map": "glMode/static/js/main.9a36b37a.js.map"
+  },
+  "entrypoints": [
+    "glMode/static/css/main.af8642b2.css",
+    "glMode/static/js/main.9a36b37a.js"
+  ]
+}
